@@ -1,4 +1,4 @@
-# grad-conflict-subliminal-toy-model
+# gradient-alignment-subliminal-mnist
 WORK IN PROGRESS
 
 This repository contains a working prototype experiment code for reproducing the results in a working paper "Sustained Gradient Alignment Mediates Subliminal Learning in a Multi-Step Setting: Evidence from MNIST Auxiliary Logit Distillation Experiment"

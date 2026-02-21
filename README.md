@@ -6,4 +6,4 @@ This repository contains a working prototype experiment code for reproducing the
 The working paper can be accessed here:
 https://doi.org/10.5281/zenodo.18228129
 
-The experiment code is currently unoptimized. It takes around one hour on Google Colab standard free instance to run e1 and around 30 minuets to run e2.
+The experiment code is currently unoptimized. Reproducing the figures in the paper requires approximately 1–2 hours per experiment on a standard free Google Colab runtime.
